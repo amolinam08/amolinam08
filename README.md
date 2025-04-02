@@ -5,6 +5,8 @@
   Actualmente aprendiendo <strong>Machine Learning</strong>.
 </p>
 
+- Visita mi landing page: https://amolinam08.github.io/landing/
+
 - 🔭 Me encuentro trabajando en AutoAssist(#)
 - 🌱 Estoy aprendiendo **Fine Tuning y Node.js**
 - 🤔 Me gusta colaborar en proyectos de IA
