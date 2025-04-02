@@ -8,7 +8,7 @@
 - 🔭 Me encuentro trabajando en AutoAssist(#)
 - 🌱 Estoy aprendiendo **Fine Tuning y Node.js**
 - 🤔 Me gusta colaborar en proyectos de IA
-- 📫 Cómo contactarme: andrew.molina.m@gmail.com(mailto:andrew.molina.m@gmail.com)
+- 📫 Cómo contactarme: andrew.molina.m@gmail.com
 - ⚡ Fun fact: ¡Me encanta el café y The Killers!
 
 ---
@@ -26,11 +26,11 @@
 
 ### Estadísticas de GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amolinam08&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolinam08&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
