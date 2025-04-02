@@ -26,10 +26,6 @@
 
 ### Estadísticas de GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amolinam08&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolinam08&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
